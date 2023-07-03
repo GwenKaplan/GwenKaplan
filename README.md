@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,11 +37,18 @@ VS Code                  17 hrs 52 mins      ██████████░�
 Chrome                   17 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.50 % 
 Blender                  7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 
+🐱‍💻 Projects: 
+wsl+ubuntu               29 hrs 52 mins      █████████████████░░░░░░░░   69.22 % 
+animate-suv              9 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+shufang-1UV              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+artauto                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+base_mat                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
 💻 Operating System: 
 Windows                  22 hrs 38 mins      █████████████░░░░░░░░░░░░   52.48 % 
 WSL                      20 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.52 % 
 ```
 
 
- Last Updated on 03/07/2023 14:10:35 UTC
+ Last Updated on 03/07/2023 14:23:07 UTC
 <!--END_SECTION:waka-->
