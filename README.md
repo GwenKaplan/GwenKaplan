@@ -16,9 +16,29 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2034%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.1%20thousand%20lines%20of%20code-blue)
+**🐱 My GitHub Data** 
+
+> 📦 206.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                25 commits          ████████████████████████░   96.15 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,5 +71,5 @@ Mac                      3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/07/2023 10:30:13 UTC
+ Last Updated on 21/07/2023 10:40:55 UTC
 <!--END_SECTION:waka-->
