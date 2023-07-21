@@ -16,28 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.1%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                26 commits          ████████████████████████░   96.30 % 
+🌃 Evening                28 commits          ████████████████████████░   96.55 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   22 commits          ████████████████████░░░░░   81.48 % 
-Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -71,6 +60,10 @@ Windows                  14 hrs 29 mins      ██████████░�
 Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
+**Timeline**
 
- Last Updated on 21/07/2023 10:43:11 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/GwenKaplan/GwenKaplan/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/07/2023 10:52:53 UTC
 <!--END_SECTION:waka-->
