@@ -16,16 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2052%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                28 commits          ████████████████████████░   96.55 % 
+🌃 Evening                29 commits          ████████████████████████░   96.67 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -60,10 +58,6 @@ Windows                  14 hrs 29 mins      ██████████░�
 Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/GwenKaplan/GwenKaplan/main/assets/bar_graph.png)
-
-
- Last Updated on 21/07/2023 10:52:53 UTC
+ Last Updated on 21/07/2023 10:58:19 UTC
 <!--END_SECTION:waka-->
