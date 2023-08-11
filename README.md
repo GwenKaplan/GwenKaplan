@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.5%20thousand%20lines%20of%20code-blue)
 
@@ -61,5 +61,5 @@ WSL                      26 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 11/08/2023 03:52:37 UTC
+ Last Updated on 11/08/2023 18:36:09 UTC
 <!--END_SECTION:waka-->
